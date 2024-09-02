@@ -51,7 +51,6 @@ def tic_tac_toe():
 
 		# Place the player's mark on the board
 		board[row][col] = player
-
 		# Check for a winner
 		winner = check_winner(board)
 		if winner:
