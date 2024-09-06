@@ -1,0 +1,1 @@
+This directory contain debugged files corrected with chatGPT for Holberton School.
